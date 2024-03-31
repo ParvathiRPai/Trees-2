@@ -1,4 +1,4 @@
-# Time complexity is O(N2) and space is O(h)
+# Time complexity is O(N2) and space is O(h).
 
 # Definition for a binary tree node.
 # class TreeNode(object):
